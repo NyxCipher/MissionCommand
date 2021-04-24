@@ -20,7 +20,7 @@ from pprint import pprint
 #Sleep Timer
 i = 10
 
-#Screen Clear
+#Screen Clear | For Windows use 'cls'
 def clear():
   
     system('clear')
